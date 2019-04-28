@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=opanxi-gtk
+Comment=opnxi theme is a flat green gtk theme and gives you flat and manjaro style gtk looks.
+Encoding=UTF-8
+
+
+[X-GNOME-Metatheme]
+GtkTheme=opanxi-gtk
+MetacityTheme=opanxi-shell
+IconTheme=suru++
+CursorTheme=bibata-ice
+ButtonLayout=menu:minimize,maximize,close
